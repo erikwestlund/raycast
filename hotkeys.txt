@@ -1,3 +1,6 @@
+🏃‍♂️ ACTIONS
+Take Note:         ⌘ + ⌥ + N
+
 📦 APP HOTKEYS
 1Password:         ⌘ + ⇧ + 1
 Calendar:          ⌘ + ⇧ + W
@@ -8,7 +11,7 @@ Evernote:          ⌘ + ⇧ + E
 Ghostty:           ⌘ + ⇧ + T
 Chrome:            ⌘ + ⇧ + G
 Outlook:           ⌘ + ⇧ + O
-Nova:              ⌘ + ⇧ + N
+Nova:              ⌘ + ⇧ + U
 Spotify:           ⌘ + ⇧ + S
 TablePlus:         ⌘ + ⇧ + B
 

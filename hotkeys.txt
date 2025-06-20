@@ -1,0 +1,18 @@
+📦 APP HOTKEYS
+1Password:         ⌘ + ⇧ + 1
+Calendar:          ⌘ + ⇧ + W
+ChatGPT:           ⌘ + ⇧ + J
+Claude:            ⌘ + ⇧ + K
+Cursor:            ⌘ + ⇧ + C
+Evernote:          ⌘ + ⇧ + E
+Ghostty:           ⌘ + ⇧ + T
+Chrome:            ⌘ + ⇧ + G
+Outlook:           ⌘ + ⇧ + O
+Nova:              ⌘ + ⇧ + N
+Spotify:           ⌘ + ⇧ + S
+TablePlus:         ⌘ + ⇧ + B
+
+📋 RAYCAST TOOLS
+Clipboard:         ⌘ + ⌥ + C
+Ask Clipboard:     ⌘ + ⌃ + C
+Ask Calendar:      ⌘ + ⌃ + W

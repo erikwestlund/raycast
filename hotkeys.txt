@@ -1,5 +1,6 @@
 🏃‍♂️ ACTIONS
 Take Note:         ⌘ + ⌥ + N
+Scratch Note:      ⌘ + ⌥ + K
 
 📦 APP HOTKEYS
 1Password:         ⌘ + ⇧ + 1
@@ -12,8 +13,9 @@ Ghostty:           ⌘ + ⇧ + T
 Chrome:            ⌘ + ⇧ + G
 Outlook:           ⌘ + ⇧ + O
 Nova:              ⌘ + ⇧ + U
-Spotify:           ⌘ + ⇧ + S
 TablePlus:         ⌘ + ⇧ + B
+
+Spotify:           ⌘ + ⌥ + S
 
 📋 RAYCAST TOOLS
 Clipboard:         ⌘ + ⌥ + C

@@ -8,13 +8,13 @@ Calendar:          ⌘ + ⇧ + W
 ChatGPT:           ⌘ + ⇧ + J
 Claude:            ⌘ + ⇧ + K
 Cursor:            ⌘ + ⇧ + C
-Evernote:          ⌘ + ⇧ + E
 Ghostty:           ⌘ + ⇧ + T
 Chrome:            ⌘ + ⇧ + G
 Outlook:           ⌘ + ⇧ + O
 Nova:              ⌘ + ⇧ + U
 TablePlus:         ⌘ + ⇧ + B
 
+Evernote:          ⌘ + ⌥ + E
 Spotify:           ⌘ + ⌥ + S
 
 📋 RAYCAST TOOLS

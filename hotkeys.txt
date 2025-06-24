@@ -21,3 +21,4 @@ Spotify:           ⌘ + ⌥ + S
 Clipboard:         ⌘ + ⌥ + C
 Ask Clipboard:     ⌘ + ⌃ + C
 Ask Calendar:      ⌘ + ⌃ + W
+1Password          ⌘ + ⌃ + P

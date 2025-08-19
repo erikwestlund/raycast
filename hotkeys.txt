@@ -6,7 +6,7 @@ Scratch Note:      ⌘ + ⌥ + K
 1Password:         ⌘ + ⇧ + 1
 Calendar:          ⌘ + ⇧ + W
 ChatGPT:           ⌘ + ⇧ + J
-Claude:            ⌘ + ⇧ + K
+Claude:            ⌘ + ⇧ + I
 Cursor:            ⌘ + ⇧ + C
 Ghostty:           ⌘ + ⇧ + T
 Chrome:            ⌘ + ⇧ + G
